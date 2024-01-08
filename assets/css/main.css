@@ -145,10 +145,7 @@ input, select, textarea {
 	}
 
 		@media screen and (max-width: 1680px) {
-			/* 0104 */
-.majorspans {
-	font-family: 'Nanum Brush Script', cursive;font-size: 7.1rem;
-}
+
 			html {
 				font-size: 12pt;
 			}
@@ -167,7 +164,7 @@ input, select, textarea {
 }
 /* 0104 */
 .majorspans {
-	font-family: 'Nanum Brush Script', cursive;font-size: 5.1rem;
+	font-family: 'Nanum Brush Script', cursive;font-size: 6.1rem;
 }
 			html {
 				font-size: 11pt;
@@ -365,9 +362,7 @@ input, select, textarea {
 			content: '';
 			height: 2px;
 			display: block;
-			/* 240110 */
-			width: 5rem;			
-			/* width:0rem; */
+			width: 5rem;
 		}
 
 	header.major p {
