@@ -123,7 +123,7 @@ input, select, textarea {
 }
 /* 0104 */
 .majorspans {
-	font-family: 'Nanum Brush Script', cursive;font-size: 7.3rem;
+	font-family: 'Nanum Brush Script', cursive;font-size:5.1rem;
 }
 /* 0104 */
 .majorspans2 {
@@ -146,6 +146,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 1680px) {
 
+			/* 240110 */
+/* 0104 */
+.majorspans {
+	font-family: 'Nanum Brush Script', cursive;font-size: 6.1rem;
+}
 			html {
 				font-size: 12pt;
 			}
@@ -161,16 +166,13 @@ input, select, textarea {
 	font-family: 'Concert One', sans-serif;font-size: 2rem;
 
 }
-}
-/* 0104 */
-.majorspans {
-	font-family: 'Nanum Brush Script', cursive;font-size: 6.1rem;
-}
+
+
 			html {
 				font-size: 11pt;
 			}
 
-		
+		}	
 
 		@media screen and (max-width: 360px) {
 
