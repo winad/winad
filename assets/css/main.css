@@ -3563,7 +3563,7 @@ input, select, textarea {
 		}
 
 		#banner header.major h1:after, #banner header.major h2:after, #banner header.major h3:after, #banner header.major h4:after, #banner header.major h5:after, #banner header.major h6:after {
-			background: #ffffff;
+			/* background: #ffffff; */
 		}
 
 		#banner:after {
