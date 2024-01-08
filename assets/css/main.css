@@ -149,7 +149,7 @@ input, select, textarea {
 		/* 240110 */
 /* 0104 */
 .majorspans {
-font-family: 'Nanum Brush Script', cursive;font-size: 10.1rem;
+font-family: 'Nanum Brush Script', cursive;font-size: 6.1rem;
 }
 		html {
 			font-size: 12pt;
@@ -159,11 +159,8 @@ font-family: 'Nanum Brush Script', cursive;font-size: 10.1rem;
 
 		@media screen and (max-width: 1680px) {
 
-			/* 240110 */
-/* 0104 */
-.majorspans {
-	font-family: 'Nanum Brush Script', cursive;font-size: 10.1rem;
-}
+
+
 			html {
 				font-size: 12pt;
 			}
