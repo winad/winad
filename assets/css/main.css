@@ -424,6 +424,10 @@ font-family: 'Nanum Brush Script', cursive;font-size: 5.1rem;
 		#contentmobile{
 			display: inline-block;
 		}
+		/* 0131 */
+		.majorspans {
+			font-family: 'Nanum Brush Script', cursive;font-size:5.1rem;
+		}
 		/* 0104 */
 		/* header.major p br {
 			display: none;
