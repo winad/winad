@@ -90,10 +90,10 @@ input, select, textarea {
 			min-width: 320px;
 		}
 		/* 0104 */
-		.majorspans {
-			font-family: 'Nanum Brush Script', cursive;
-			font-size: 6.1rem;
-			font-weight: 100;
+		#majorspans {
+			
+			font-size: 5.1rem;
+			
 		}
 		
 	}
